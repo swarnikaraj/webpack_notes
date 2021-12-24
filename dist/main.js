@@ -1,0 +1,1 @@
+(()=>{document.getElementById("btn").addEventListener("click",(function(){console.log(t);let n=document.createElement("div");n.innerText=t,e.append(n)}));let e=document.getElementById("saveditems");var t=document.getElementById("takenotes").value})();
